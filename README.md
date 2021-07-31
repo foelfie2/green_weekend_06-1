@@ -588,12 +588,27 @@ car.start90;
 
 > Event 감지 함수
 > - javascript : addEventListener()
-> - jquery : on()
+> - jquery : on()//사용 이벤트 명칭: click, mouseenter, mouseleave
+>
 
-함수 : 익명함수 정리
+###함수 : 익명함수 정리
+> 프로그래밍 코드 블록
+> 특정 실행 코드 부분을 그룹화
 
+```
+function:함수 선언 키워드 (예약어)
 
+function 함수이름(매개변수1, 매개변수2){
+//실행코드
+}
 
+//함수 사용(호출)
+함수이름(매개변수);
+
+function printName(name){
+ console.log()
+}
+```
 
 
 
